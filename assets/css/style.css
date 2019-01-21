@@ -1,0 +1,25 @@
+body html{
+    background-color: blue;
+
+}
+#addBtn{
+    background-color: greenyellow;
+}
+.animal{
+    background-color: aquamarine;
+    padding: 5px;
+    margin: 3px;
+}
+#animalInput{
+    margin-left: 800px;
+    padding-top: 5px;
+}
+#imageDiv{
+    display: flex;
+    flex-wrap: wrap; 
+    padding: 0 4x;
+    padding-left: 5px;
+    margin-top: 8px;
+  vertical-align: middle;
+  
+}
